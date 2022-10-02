@@ -1,0 +1,57 @@
+/* div contenedor tp  */
+
+#container
+{height: 700px;
+width: 100%;
+margin: auto;}
+
+
+/* carousel */
+.carousel-item img
+{filter:brightness(70%) !important}
+
+.carousel-caption
+{margin-bottom: 140px;}
+
+.btn-success { background-color: #2ba729 !important;
+ border-color: #2ba729 !important;}
+
+
+/* encabezado oradores */
+ h6, h2 {text-align: center;}
+
+/*cards*/
+.card-text {font-size:x-small !important;}
+
+.container-oradores {
+padding-right: 100px;
+padding-left: 100px;
+}
+
+
+
+/* grid BA octubre */
+
+ #honolulu
+ {background-color: rgb(73, 71, 71);
+ color: white;
+ font-size: small;
+ }
+
+ .btn-primary {
+background-color: #92e65a !important;
+border-color: #92e65a !important;
+}
+
+/* form */
+.charla {
+color:grey !important
+}
+
+
+/* footer */
+ .footer
+ {
+    background-color: rgb(09, 77, 100);
+    font: white !important;
+ }
