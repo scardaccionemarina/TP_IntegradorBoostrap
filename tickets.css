@@ -1,0 +1,16 @@
+/* BOTONES */
+.btn-primary {
+    background-color: #92e65a !important;
+    border-color: #92e65a !important;
+    width: 32.5% !important;
+    }
+
+
+
+/* FOOTER */
+ .footer
+ {
+    background-color: rgb(09, 77, 100);
+    font: white !important;
+ }
+
